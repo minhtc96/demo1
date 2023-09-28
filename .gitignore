@@ -4,27 +4,27 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 # User-specific files
-*.rsuser
+*.rsuserssssssssssssssssssssssssssssssssssssssss 
 *.suo
-*.user
+*.user  sssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 *.userosscache
 *.sln.docstates
 
 # User-specific files (MonoDevelop/Xamarin Studio)
-*.userprefs
+*.userprefsssssssssssssssssssssssssssssssssssssssssssss 
 
 # Mono auto generated files
-mono_crash.*
+mono_crash.*          ssssssssssssssssssssssssssssssssssssssssssss
 
 # Build results
 [Dd]ebug/
-[Dd]ebugPublic/
+[Dd]ebugPublic/            ssssssssssssssssssasddddddddddddddddddddddddddddd
 [Rr]elease/
 [Rr]eleases/
 x64/
 x86/
 [Ww][Ii][Nn]32/
-[Aa][Rr][Mm]/
+[Aa][Rr][Mm]/                    ssssssssssssssssssssssssssssssssssssssssss
 [Aa][Rr][Mm]64/
 bld/
 [Bb]in/
@@ -41,7 +41,7 @@ bld/
 Generated\ Files/
 
 # MSTest test Results
-[Tt]est[Rr]esult*/
+
 [Bb]uild[Ll]og.*
 
 # NUnit
@@ -63,7 +63,7 @@ project.fragment.lock.json
 artifacts/
 
 # ASP.NET Scaffolding
-ScaffoldingReadMe.txt
+ScaffoldingReadMssssssssssssssssssde.txt
 
 # StyleCop
 StyleCopReport.xml
@@ -80,7 +80,7 @@ StyleCopReport.xml
 *.pdb
 *.ipdb
 *.pgc
-*.pgd
+*.pgdddddddddddddddddddddd
 *.rsp
 *.sbr
 *.tlb
@@ -98,7 +98,7 @@ StyleCopReport.xml
 *.svclog
 *.scc
 
-# Chutzpah Test files
+# Chutzpah Tessssst files
 _Chutzpah*
 
 # Visual C++ cache files
