@@ -56,7 +56,7 @@ dlldata.c
 
 # Benchmark Results
 BenchmarkDotNet.Artifacts/
-
+sssssssss
 # .NET Core
 project.lock.json
 project.fragment.lock.json
@@ -66,18 +66,18 @@ artifacts/
 ScaffoldingReadMssssssssssssssssssde.txt
 
 # StyleCop
-StyleCopReport.xml
+StyleCopReport.xmlsssssssssssssssssssssssss
 
-# Files built by Visual Studio
+# Files built by Visual Studiosssssssssssssss
 *_i.c
 *_p.c
-*_h.h
+*_h.hsssssssssssssssssssssssssssssssssss
 *.ilk
 *.meta
 *.obj
 *.iobj
 *.pch
-*.pdb
+*.pdbssssssssssssssssssssss
 *.ipdb
 *.pgc
 *.pgdddddddddddddddddddddd
