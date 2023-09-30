@@ -2,17 +2,18 @@
 
 //namespace MyApp // Note: actual namespace depends on the project name.
 
-    internal class Program
+internal class Program
+{
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            float p = 8f;
-        
+        float p = 8f;
+        Console.WriteLine("Hello World!" + p);
+        Console.WriteLine("Hello World!" + p);
 
         Console.WriteLine("Ahahaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
         Console.WriteLine("Ahahaa");
         Console.ReadLine();
 
-        }
     }
+}
 
