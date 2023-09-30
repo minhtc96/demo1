@@ -7,8 +7,12 @@
         static void Main(string[] args)
         {
             float p = 8f;
-            Console.WriteLine("Hello World!" + p);
+        Console.WriteLine("Hello World!" + p);
+        Console.WriteLine("Hello World!" + p);
+
+        Console.WriteLine("Hello World!" + p);
             Console.ReadLine();
+
         }
     }
 
